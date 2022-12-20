@@ -1,0 +1,28 @@
+2022-12-20T08:50:21+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-sync/src/class-json-deflate-array-codec.php à la ligne 34
+
+2022-12-20T08:50:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-admin/includes/file.php à la ligne 1272
+
+2022-12-20T08:50:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:50:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-includes/class-wpdb.php à la ligne 2153
+
+2022-12-20T08:50:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-sync/src/class-json-deflate-array-codec.php à la ligne 34
+
+2022-12-20T08:50:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:50:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:50:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-sync/src/class-json-deflate-array-codec.php à la ligne 34
+
+2022-12-20T08:51:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-sync/src/class-json-deflate-array-codec.php à la ligne 34
+
+2022-12-20T08:51:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:51:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:51:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T08:51:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 2588257 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-content/plugins/td-composer/legacy/Newspaper/functions.php à la ligne 16
+
+2022-12-20T10:53:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 10485968 bytes) dans /home/storage/vhosts/axel-vair.students-laplateforme.io/httpdocs/mycms/wp-includes/Requests/Transport/cURL.php à la ligne 505
+
